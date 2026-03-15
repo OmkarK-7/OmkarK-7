@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 ![Visitors](https://komarev.com/ghpvc/?username=OmkarK-7&color=0969da&style=flat-square&label=Profile+Views)
 -->
 
-# Omkar Kalugade
-
+# Omkar K
+<!--
 **`ML Engineer · IIT Bombay · Building things that actually work in production`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-kalugade/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarkalugade.iitb@gmail.com)
+-->
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](gonna-add-portfolio-link-soon)
 -->
@@ -32,17 +33,15 @@ Here are some ideas to get you started:
 
 ---
 
-I'm an ML engineer who enjoys working across the full stack of machine learning — from training models to deploying them in a way that's actually production-ready. I've done research in deep learning for drug discovery at IIT Bombay, built real-time computer vision systems, and trained RL agents in game environments.
-
+I'm an ML engineer who enjoys working across the full stack of machine learning — from training models to deploying them in a way that's actually production-ready. I've done research in deep learning for drug discovery, built real-time computer vision systems, trained RL agents in game environments, and put together agentic RAG pipelines with hybrid retrieval and tool-calling.
 I care about writing clean, reproducible, and well-documented ML code — not just notebooks that work on my machine.
 
-- 🎓 B.Tech from **IIT Bombay** (MEMS + Minor in EE)
-- 🔬 Research background in **generative DL + computational biology**
-- ⚙️ Interested in **MLOps, production ML systems, and applied RL**
-- 📬 Open to **AI/ML Engineer** and **Research Engineer** roles
+- 🔬 Research background in generative DL + computational biology
+- ⚙️ Interested in MLOps, production-ready ML systems, and applied RL
+- 🤖 Recently exploring agentic AI, LLM fine-tuning, and RAG systems
+- 📬 Open to AI/ML Engineer and Research Engineer roles
 
 ---
-
 ## 🧰 Tech Stack
 
 #### Languages
